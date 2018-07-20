@@ -1,0 +1,2 @@
+thumbor==6.5.1
+envtpl==0.4.1
